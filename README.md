@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Salut, je suis Salem HAMIDATOU
 
-<!--
-**sa-loup/sa-loup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Web Full Stack spécialisé dans la stack **MERN** (MongoDB, Express, React, Node.js).  
+Je suis passionné par la création de projets efficaces, modernes et bien structurés.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 À propos de moi
+
+- 🔭 Je me prépare actuellement pour mes futures opportunités professionnelles.  
+- 🌱 J’apprends activement la stack **MERN**  
+- 📄 [Voir mon CV](#) *(ajoute ton lien ici)*  
+- 💻 [Mon Portfolio](#) *(ajoute ton lien ici)*  
+- 💻 [Mes projets sur GitHub](https://github.com/salembarazilia)  
+- 💬 Me poser des questions sur : HTML, CSS, React, Node.js, Express.js, JavaScript  
+- 📫 Contact : **salembarazilia@gmail.com**
+
+---
+
+## 🚀 Langages et outils
+
+### 🌐 Frontend
+`HTML5` `CSS3` `JavaScript` `React.js` `Redux` `TypeScript`  
+`Material UI` `Next.js` `Chakra UI` `REST API` `React Router`
+
+### 💻 Backend
+`Node.js` `Express.js` `MongoDB`
+
+### 🛠️ Outils
+`Git` `GitHub` `Postman` `VS Code` `NPM` `Slack`
+
+---
+
+## 📊 Statistiques GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salembarazilia&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salembarazilia&show_icons=true&theme=default)
+
+---
+
+## ✍️ Citation
+
+> *“Le code, c'est comme l'humour : s’il faut l’expliquer, c’est qu’il n’est pas bon.”*
+
+---
