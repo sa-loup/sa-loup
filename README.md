@@ -17,17 +17,42 @@ Je suis passionné par la création de projets efficaces, modernes et bien struc
 
 ---
 
-## 🚀 Langages et outils
+## 🚀 Langages et Outils
 
 ### 🌐 Frontend
-`HTML5` `CSS3` `JavaScript` `React.js` `Redux` `TypeScript`  
-`Material UI` `Next.js` `Chakra UI` `REST API` `React Router`
+
+<p>
+  <kbd><code>HTML5</code></kbd>
+  <kbd><code>CSS3</code></kbd>
+  <kbd><code>JavaScript</code></kbd>
+  <kbd><code>React.js</code></kbd>
+  <kbd><code>Redux</code></kbd>
+  <kbd><code>TypeScript</code></kbd>
+  <kbd><code>Material UI</code></kbd>
+  <kbd><code>Next.js</code></kbd>
+  <kbd><code>Chakra UI</code></kbd>
+  <kbd><code>REST API</code></kbd>
+  <kbd><code>React Router</code></kbd>
+</p>
 
 ### 💻 Backend
-`Node.js` `Express.js` `MongoDB`
+
+<p>
+  <kbd><code>Node.js</code></kbd>
+  <kbd><code>Express.js</code></kbd>
+  <kbd><code>MongoDB</code></kbd>
+</p>
 
 ### 🛠️ Outils
-`Git` `GitHub` `Postman` `VS Code` `NPM` `Slack`
+
+<p>
+  <kbd><code>Git</code></kbd>
+  <kbd><code>GitHub</code></kbd>
+  <kbd><code>Postman</code></kbd>
+  <kbd><code>VS Code</code></kbd>
+  <kbd><code>NPM</code></kbd>
+  <kbd><code>Slack</code></kbd>
+</p>
 
 ---
 
