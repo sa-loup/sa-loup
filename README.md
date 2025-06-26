@@ -52,8 +52,8 @@ Développeur Web Full Stack spécialisé MERN (MongoDB, Express, React, Node.js)
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salembarazilia&layout=compact&theme=default" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=salembarazilia&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa-loup&layout=compact&theme=default" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sa-loup&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ---
