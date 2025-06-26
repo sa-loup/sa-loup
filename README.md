@@ -10,8 +10,8 @@ Je suis passionné par la création de projets efficaces, modernes et bien struc
 - 🔭 Je me prépare actuellement pour mes futures opportunités professionnelles.  
 - 🌱 J’apprends activement la stack **MERN**  
 - 📄 [Voir mon CV](#) *(ajoute ton lien ici)*  
-- 💻 [Mon Portfolio](#) *(ajoute ton lien ici)*  
-- 💻 [Mes projets sur GitHub](https://github.com/salembarazilia)  
+- 💻 [Mon Portfolio](#) *([ajoute ton lien ici](https://devfolio-sh.netlify.app/))*  
+- 💻 [Mes projets sur GitHub](https://github.com/sa-loup)  
 - 💬 Me poser des questions sur : HTML, CSS, React, Node.js, Express.js, JavaScript  
 - 📫 Contact : **salembarazilia@gmail.com**
 
