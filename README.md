@@ -1,26 +1,21 @@
-# 👋 Salut, je suis Salem HAMIDATOU
+# 👋 Salut, je suis **Salem HAMIDATOU**
 
-Développeur Web Full Stack spécialisé dans la stack **MERN** (MongoDB, Express, React, Node.js).  
-Je suis passionné par la création de projets efficaces, modernes et bien structurés.
+Développeur Web Full Stack spécialisé MERN (MongoDB, Express, React, Node.js), passionné par le code propre et efficace.
 
 ---
 
 ## 💫 À propos de moi
-
-- 🔭 Je me prépare actuellement pour mes futures opportunités professionnelles.  
-- 🌱 J’apprends activement la stack **MERN**  
-- 📄 [Voir mon CV](#) *(ajoute ton lien ici)*  
-- 💻 [Mon Portfolio](https://devfolio-sh.netlify.app/)  
-- 💻 [Mes projets sur GitHub](https://github.com/sa-loup)  
-- 💬 Me poser des questions sur : HTML, CSS, React, Node.js, Express.js, JavaScript  
+- 🔭 Je prépare mes futures opportunités professionnelles.  
+- 🌱 J’apprends activement la stack **MERN**.   
+- 💻 [Mon portfolio]([#](https://devfolio-sh.netlify.app/))  
+- 💻 [Mes projets sur GitHub](https://github.com/salembarazilia)  
 - 📫 Contact : **salembarazilia@gmail.com**
 
 ---
 
-## 🚀 Langages et Outils
+## 🚀 Compétences
 
-### 🌐 Frontend
-
+### 🌐 Frontend  
 <p>
   <kbd><code>HTML5</code></kbd>
   <kbd><code>CSS3</code></kbd>
@@ -35,21 +30,19 @@ Je suis passionné par la création de projets efficaces, modernes et bien struc
   <kbd><code>React Router</code></kbd>
 </p>
 
-### 💻 Backend
-
+### 💻 Backend  
 <p>
   <kbd><code>Node.js</code></kbd>
   <kbd><code>Express.js</code></kbd>
   <kbd><code>MongoDB</code></kbd>
 </p>
 
-### 🛠️ Outils
-
+### 🛠️ Outils  
 <p>
   <kbd><code>Git</code></kbd>
   <kbd><code>GitHub</code></kbd>
   <kbd><code>Postman</code></kbd>
-  <kbd><code>VS Code</code></kbd>
+  <kbd><code>VS Code</code></kbd>
   <kbd><code>NPM</code></kbd>
   <kbd><code>Slack</code></kbd>
 </p>
@@ -58,13 +51,23 @@ Je suis passionné par la création de projets efficaces, modernes et bien struc
 
 ## 📊 Statistiques GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salembarazilia&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salembarazilia&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salembarazilia&layout=compact&theme=default" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salembarazilia&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
 ---
 
 ## ✍️ Citation
 
-> *“Le code, c'est comme l'humour : s’il faut l’expliquer, c’est qu’il n’est pas bon.”*
+> *“Le code, c'est comme l'humour : s’il faut l’expliquer, c’est qu’il n’est pas bon.”*
 
 ---
+
+## 📱 Retrouvez-moi ici
+
+<p align="center">
+  <a href="https://github.com/sa-loup"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/tonlinkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:salembarazilia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
