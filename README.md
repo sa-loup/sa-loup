@@ -9,7 +9,7 @@ Développeur Web Full Stack spécialisé MERN (MongoDB, Express, React, Node.js)
 - 🌱 J’apprends activement la stack **MERN**.   
 - 💻 [Mon portfolio]([#](https://devfolio-sh.netlify.app/))  
 - 💻 [Mes projets sur GitHub](https://github.com/salembarazilia)  
-- 📫 Contact : **salembarazilia@gmail.com**
+- 📫 Contact : **salem__hamidato@outlook.fr**
 
 ---
 
